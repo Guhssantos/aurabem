@@ -4,7 +4,7 @@
 
 **Link para experimentar Aura Bem:** [https://aurabem.streamlit.app/](https://aurabem.streamlit.app/)
 
-![Print da Interface da Aura Bem](URL_DA_IMAGEM_DA_INTERFACE_AURA_BEM.png)
+![Image](https://github.com/user-attachments/assets/21cacdd3-b15c-4369-b669-6e980886b233)
 <!-- Substitua URL_DA_IMAGEM_DA_INTERFACE_AURA_BEM.png por um link para uma imagem da interface da Aura Bem. Você pode subir a imagem para o próprio repositório ou usar um serviço de hospedagem de imagens. -->
 
 ## 🌟 Sobre o Projeto
