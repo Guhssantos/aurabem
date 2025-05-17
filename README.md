@@ -86,7 +86,7 @@ Se você também está desenvolvendo projetos com IA, encorajo a explorar a cria
 
 Este projeto é fruto direto dos aprendizados e da inspiração obtidos durante a **Imersão IA da Alura em parceria com o Google Gemini**. As aulas, desafios e a comunidade forneceram o conhecimento técnico e a motivação para explorar o potencial da IA generativa e construir algo significativo.
 
-![Logo da Imersão IA Alura ou Print de uma Aula](URL_DA_IMAGEM_DA_IMERSAO.png)
+![Image](https://github.com/user-attachments/assets/694e2d2a-a979-487f-9c74-7f657f93c37d)
 <!-- Substitua por um logo ou print relevante da Imersão -->
 
 ## 🚀 Como Executar Localmente (Opcional)
