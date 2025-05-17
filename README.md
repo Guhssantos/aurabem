@@ -120,6 +120,6 @@ Se desejar executar o projeto localmente:
     streamlit run app.py
     ```
 
-## 🙌 Contribuições
+## 🙌 Atenção!
 
-Contribuições são bem-vindas! Se você tem ideias para melhorar a Aura Bem, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Experimente a Aura Bem. Deixe que ela ilumine seu caminho para o equilíbrio e a paz interior. Porque, no final, você merece seu *bem-estar*.
