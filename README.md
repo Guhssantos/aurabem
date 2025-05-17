@@ -52,7 +52,7 @@ Para auxiliar na concepção, estratégia e desenvolvimento técnico deste proje
 **Papel do MentorAIra:**
 > MentorAIra foi configurado para atuar como um mentor estratégico e criativo, inspirado na visão e didática de Paulo Silveira (CEO da Alura). Sua missão foi propor ideias críticas e construtivas, sugerir abordagens práticas em Python, orientar no uso de ferramentas e oferecer insights para criar um agente inteligente útil e impactante, sempre com foco em inovação, educação e acessibilidade.
 
-![Print do MentorAIra no Gemini Studio](URL_DA_IMAGEM_DO_MENTORAIRA.png)
+![Image](https://github.com/user-attachments/assets/fe08d182-c649-4441-a3f4-4267d866ba81)
 <!-- Substitua por um print da interface do Gemini Studio mostrando a configuração ou uma interação com o MentorAIra -->
 
 MentorAIra foi fundamental para:
